@@ -2,12 +2,14 @@
     "name": "datatables.net-select-bs4",
     "description": "Select for DataTables with styling for [Bootstrap4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)",
     "main": "js/select.bootstrap4.js",
+    "module": "js/select.bootstrap4.mjs",
     "style": "css/select.bootstrap4.css",
     "types": "./types/select.bootstrap4.d.ts",
     "version": "1.4.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
